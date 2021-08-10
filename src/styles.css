@@ -818,6 +818,11 @@ footer {
     font-size: 15.5px;
   }
 
+  .socials {
+    padding-top: 1%;
+    font-size: 1.5em;
+  }
+
   .breaks2 {
     margin: 0 auto;
   }
@@ -939,6 +944,11 @@ footer {
     font-size: 8px;
   }
 
+  .socials {
+    padding-top: 1%;
+    font-size: 1.5em;
+  }
+
   .projFiller {
     font-size: 8px;
   }
@@ -1034,5 +1044,10 @@ footer {
 
   .footer {
     font-size: 6px;
+  }
+
+  .socials {
+    padding-top: 1%;
+    font-size: 1.5em;
   }
 }
